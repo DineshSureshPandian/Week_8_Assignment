@@ -1,0 +1,24 @@
+body{
+	background-color: #d4cd13;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height:100vh;
+}
+
+.more {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.more:hover {
+    background-color: #45a049;
+}
+
+.morepage {
+    margin-top: 10px;
+    color: #333;
+}
